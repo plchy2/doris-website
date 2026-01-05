@@ -1,3 +1,7 @@
+:::warning
+The `count_substrings` function exists in the Doris codebase but is not available for use in Doris 3.0
+and will result in a `Can not found function` error at runtime.
+:::
 ---
 {
 "title": "SUBSTRING_INDEX",
